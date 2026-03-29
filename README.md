@@ -73,7 +73,6 @@ Created a one-page infographic using **Canva** covering three key topics:
 - Safe internet practices (passwords, phishing, data protection)
 - Building a professional online presence (LinkedIn, GitHub)
 
-> 🔗 Canva Design Link: [View Infographic](https://www.canva.com/design/XXXXXXXX/view) ← *replace with your link*
 
 ---
 
@@ -83,7 +82,7 @@ Set up professional profiles on three platforms:
 
 | Platform | Profile Link | Purpose |
 |---|---|---|
-| **GitHub** | [aaradhyasinghai](https://github.com/aaradhyasinghai) | Code portfolio, projects, open source |
+| **GitHub** | [aaradhyasinghai](https://github.com/aaradhyasinghai-ux) | Code portfolio, projects, open source |
 | **LinkedIn** | [aaradhyasinghai](https://linkedin.com/in/aaradhyasinghai) | Professional networking, placements |
 | **Kaggle** | [aaradhyasinghai](https://kaggle.com/aaradhyasinghai) | Data science, ML competitions |
 
@@ -91,8 +90,8 @@ Set up professional profiles on three platforms:
 ```
  Hi, I'm Aaradhya Singhai
  Integrated MTech CSE – Cybersecurity | First Year | VIT Bhopal University
- Currently learning: Digital Literacy, Python basics, and cybersecurity fundamentals
- aaradhya.singhai2025@vitbhopal.ac.in
+ Currently learning: Digital Literacy, Python, and cybersecurity fundamentals
+ aaradhya.25mei10078@vitbhopal.ac.in
 ```
 
 ---
@@ -108,9 +107,6 @@ Set up professional profiles on three platforms:
 - Includes MCQ and short answer questions
 - Linked to Google Sheets for response collection
 
-> 🔗 Quiz Link: [Digital Literacy Awareness Quiz](https://forms.google.com/XXXXXXXX) ← *replace with your link*
-> 🔗 Responses Sheet: [View Responses](https://docs.google.com/spreadsheets/XXXXXXXX) ← *replace with your link*
-
 ---
 
 ### Task 4 — Professional Email & Etiquette Guide · *Module 4 · 20 Marks*
@@ -122,8 +118,7 @@ Set up professional profiles on three platforms:
 Both emails follow professional conventions — clear subject lines, proper salutations, structured body, and formal sign-offs.
 
 **Part B – Social Media Checklist:**
-A Do's and Don'ts checklist for responsible social media use as a college student. See [`social-media-checklist.md`](task-4-email-etiquette/social-media-checklist.md).
-
+A Do's and Don'ts checklist for responsible social media use as a college student.
 ---
 
 ### Task 5 — Cybercrime Awareness · *Module 5 · 20 Marks*
@@ -131,13 +126,8 @@ A Do's and Don'ts checklist for responsible social media use as a college studen
 **Case Study: UPI & Online Payment Fraud**
 A detailed analysis of how UPI collect-request fraud targets college students on platforms like OLX and Facebook Marketplace — including step-by-step mechanism, target profile, and consequences.
 
-See [`casestudy.md`](task-5-cybercrime/casestudy.md)
-
 **Stay Safe Online — Prevention Checklist:**
 8 actionable tips for college students in India, including 2 UPI-specific safety rules and official reporting channels.
-
-See [`prevention-checklist.md`](task-5-cybercrime/prevention-checklist.md)
-
 >  **Report cybercrime:** [cybercrime.gov.in](https://cybercrime.gov.in) · Helpline **1930** (24×7, free)
 
 ---
